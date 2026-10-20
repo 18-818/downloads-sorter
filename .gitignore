@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.obj
+build/
+.vs/
+.vscode/
+*.sln
+*/vcxproj*
+.idea/
