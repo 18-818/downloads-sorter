@@ -4,4 +4,4 @@ project(downloads-sorter LANGUAGE CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(downloads-sorter scr/main.cpp)
+add_executable(downloads-sorter src/main.cpp)
